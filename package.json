@@ -1,8 +1,9 @@
 {
   "name": "thorin-plugin-iam",
   "author": "UNLOQ Systems",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
+    "uiamp-client": "^1.x"
   },
   "description": "UNLOQ.io IAM plugin for Thorin.js",
   "main": "index.js",
